@@ -1,0 +1,31 @@
+(20:32:2) INF_LOAD:Starting... TemperatureControl_0
+(20:32:2) INF_RTM:Detected NT6.RTM 6.2 
+(20:32:2) INF_RTM:Base TRACE MODE 6 Profiler T-Factory RTM+  ver. 6.09.0 
+(20:32:2) ._.:RTM 
+(20:32:2) INF_LOAD:max channel = 65535
+(20:32:2) INF_LOAD:Load Channels = 2
+(20:32:2) INF_LOAD:Templates=2 (math=1 sql=0 scr=1 doc=0 pnl=0) 
+(20:32:2) INF_LOAD:Objects = 3
+(20:32:2) INF_RTM:Timer=0.055s CalcLoop=550ms 
+(20:32:2) INF_LOAD:LoadTime=0.014s CalcPeriod=550ms 
+(20:32:2) INF_RTM:available(MB): pm=16302 vm=2047; free(MB): pm=8731 vm=1918 em=0 after load
+(20:32:2) INF_RTM:total use(MB): pm=7570 vm=129 after load
+(20:32:2) INF_RTM:use(MB): pm=22(23) vm=20(20) pf=0 after load
+(20:32:2) INF_RTM:gh:35 uh:70 hh:180 after load
+(20:32:5) INF_IP:hostname is DESKTOP-HLE67JQ 
+(20:32:5) INF_IP:card0 addr=0.0.0.0 
+(20:32:5) INF_IP:card1 addr=172.27.192.1 
+(20:32:5) INF_IP:card2 addr=192.168.1.43 
+(20:32:5) INF_RTM:start time is 0.007 s 
+(20:32:5) INF_FLT:ModeSwitch e15=0000 e18=0000 e20=0000 [0] 
+(20:32:5) INF_RTM:mode=2(Work) e15=00 e18=00 e20=00 [src4] 
+(20:32:5) INF_FLT:No detect condition 
+(20:32:5) INF_RTM:total use(MB): pm=7613 vm=378 after start
+(20:32:5) INF_RTM:use(MB): pm=61(61) vm=117(117) pf=29754 after start
+(20:32:5) INF_RTM:gh:1566 uh:204 hh:466 after start
+(20:32:5) INF_GRAPH:scr:1:popup=0 scrref=0 trend=1,0 update=1 
+(20:32:39) INF_RTM:stoping... 
+(20:32:39) INF_RTM:mode=5(Stop) e15=00 e18=00 e20=00 [src0] 
+(20:32:40) INF_RTM:stop time is 1.225 s 
+(20:32:40) INF_RTM:number of calculation = 56
+(20:32:40) INF_RTM:END OF WORK 
